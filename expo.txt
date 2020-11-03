@@ -1,13 +1,1 @@
-asdas
-da
-sd
-asd
-asd
-as
-d
-as
-d
-sda
-sd
-as
-d
+npm install expo
